@@ -6,6 +6,8 @@
 1. Bước 1: Xác định profile của bản memory dump
 - Profile cho chúng ta biết hệ điều hành của máy tính từ memory dump. Sử dụng volatility 2.6 để xác định profile
 - sử dụng plugin imageinfo
-$ vol.py -f MemLabs-Lab1/MemoryDump_Lab1.raw imageinfo
+```bash
+vol.py -f MemLabs-Lab1/MemoryDump_Lab1.raw imageinfo
+```
 ![image](https://github.com/user-attachments/assets/8974147a-246a-4d4f-8aa6-8359a6d449a1)
 
