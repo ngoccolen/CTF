@@ -39,7 +39,7 @@ mở file .data này bằng GIMP, phần mềm chuyên chỉnh sửa ảnh có t
 - Chỉnh sửa lại độ rộng và cao và lật lại ảnh, ta sẽ được flag thứ 2:
   ![image](https://github.com/user-attachments/assets/54b5a9eb-e922-4aa8-975d-7f4ab9fa9f3f)
   flag{G00d_BoY_good_girL}
-  ## flag thứ 3
+## flag thứ 3
 Khi kiểm tra danh sách các tiến trình đang chạy, ta nhận thấy một tiến trình WinRAR đang hoạt động. Vậy có thể có file đang được mở hoặc xử lý trong quá trình này.
   ![image](https://github.com/user-attachments/assets/c600f10c-6cc7-4e56-ab74-10489fed29ce)
 Để tìm hiểu kỹ hơn, ta sử dụng plugin filescan để quét toàn bộ vùng nhớ, nhằm phát hiện tất cả các file mà hệ thống đang xử lý kể cả những file:
