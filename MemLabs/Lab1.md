@@ -49,8 +49,6 @@ vol.py -f MemLabs-Lab1/MemoryDump_Lab1.raw --profile=Win7SP1x64 filescan
 ```
 ![image](https://github.com/user-attachments/assets/a2c26a89-ef11-45d4-bea4-9984f1ecd60a)
 có thể thấy rằng có rất nhiều file và ta không thể dò từng cái được nên ta sẽ dùng câu lệnh grep để tìm các file nén .rar trong bộ nhớ
-![image](https://github.com/user-attachments/assets/fbb95d32-c4b8-48cc-9309-8259055f08c1)
-
 ```bash
 vol.py -f MemLabs-Lab1/MemoryDump_Lab1.raw --profile=Win7SP1x64 filescan | grep -i '.rar'
 ```
