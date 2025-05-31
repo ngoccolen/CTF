@@ -23,6 +23,7 @@ vol.py -f MemLabs-Lab1/MemoryDump_Lab1.raw --profile=Win7SP1x64 consoles
 ![image](https://github.com/user-attachments/assets/eb0225b9-d248-46d0-85b7-c8d6b71bbccd)
 Ta tìm thấy chuỗi base 64: ZmxhZ3t0aDFzXzFzX3RoM18xc3Rfc3Q0ZzMhIX0=
 Dùng base64 decode để giải mã chuối, sau khi giải mã ta được flag đầu tiên
+
 flag{th1s_1s_th3_1st_st4g3!!}
 ## flag thứ 2
 Ta xem lại list các tiến trình đang chạy và tìm thấy 1 tiến trình lạ có tên là mspaint.exe, giờ ta sẽ dump bộ nhớ của tiến trình này bằng plugin memdump và lưu nó vào thư mục output
@@ -83,6 +84,7 @@ vol.py -f MemLabs-Lab1/MemoryDump_Lab1.raw --profile=Win7SP1x64 hashdump
 ![image](https://github.com/user-attachments/assets/55043c74-d71e-473f-a5ab-76ef7c6dbacf)
 Ta tìm được password là F4FF64C8BAAC57D22F22EDC681055BA6. Nhập mật khẩu vào ta sẽ được flag thứ 3
 ![image](https://github.com/user-attachments/assets/25fd7c21-c1e2-471f-b934-8be0ff23e0a9)
+flag{w3ll_3rd_stage_was_easy}
 
 
 
