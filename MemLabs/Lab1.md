@@ -60,7 +60,8 @@ vol.py -f MemLabs-Lab1/MemoryDump_Lab1.raw --profile=Win7SP1x64 dumpfiles -Q 0x0
 ![image](https://github.com/user-attachments/assets/9aea04df-f13a-48f8-be97-3b4527901c85)
 Ta có được file rar như này
 ![image](https://github.com/user-attachments/assets/69a5d400-f5f8-47b8-be59-41adf9bb9107)
-Kiểm tra bên trong file rar ta sẽ thấy có 1 file .kmp như này
+
+Kiểm tra bên trong file rar ta sẽ thấy có 1 file .kmp
 ![image](https://github.com/user-attachments/assets/cc75f6de-a8ff-4056-990a-ccb273a42cdc)
 Khi liệt kê các file bên trong thư mục bằng lệnh 
 ```bash
