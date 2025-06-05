@@ -69,7 +69,7 @@ Mở file bằng DB Browser for SQLite. Check bảng url ta thấy có 1 mega li
 ![image](https://github.com/user-attachments/assets/ae916db4-55a6-4a7d-9b54-0a8e46cbbd35)
 Nhập đường dẫn url vào ta được 1 file có tên là Important.zip
 ![image](https://github.com/user-attachments/assets/1319d2e5-1019-465d-ac9c-9fc23530c281)
-Tải file xuống và mở file ta nhận được flag thứ 
+Tải file xuống và mở file ta nhận được flag thứ 3
 ![image](https://github.com/user-attachments/assets/e8f89ef4-c675-4b21-9002-0ab2095c5699)
 flag{oK_So_Now_St4g3_3_is_DoNE!!} 
 
